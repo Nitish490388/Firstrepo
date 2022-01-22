@@ -1,0 +1,44 @@
+
+.text-center{
+   text-align: center;
+   letter-spacing: 2px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#name{
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+.captiontext-center{
+    text-align: center;
+}
+.thumbnail{
+    background-color: #eee;
+}
+body{
+    margin-top: 33px;
+}
+
+.image-circle{
+    width:40%;
+    height:40%;
+   
+    border-radius: 50%;
+   
+}
+li{
+   font-family: cursive;
+}
+h3{
+    font-family: fantasy;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
+a{
+    color: red;
+}
+a:hover{
+    color:green;
+}
+a.myname{
+    color:blue;
+}
